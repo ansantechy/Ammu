@@ -15,8 +15,8 @@
 
 ## `FORK AND CHANGE SETTINGS`
 
-- OWNER NUMBER [`CLICK HERE`](https://github.com/D-E-V-I-L-8/Ammu/blob/main/config.js#L2)
-- SESSION[`Click Here`](https://github.com/D-E-V-I-L-8/Ammu/blob/main/devil.json#L1)
+- OWNER NUMBER [`CLICK HERE`](https://github.com/ansantechy/Ammu/blob/main/config.js#L2)
+- SESSION[`Click Here`](https://github.com/ansantechy/Ammu/blob/main/devil.json#L1)
 
 
 ## `SCAN QR`
