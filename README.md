@@ -1,5 +1,5 @@
 
-# *AMMU WHATSAPP-BOT*
+# *PATCH  WHATSAPP-BOT*
 
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/45efc9300f910bc8a870a.jpg" width="200" height="200"/>
