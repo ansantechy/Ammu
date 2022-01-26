@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://instagram.com/_.p.a.t.c.h_?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/50056124"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## `WHATSAPP GROUP CHAT LINK`
@@ -38,7 +38,7 @@
   <div align="center">
   
    [![PATCH](https://telegra.ph/file/642ee31081fd5892b9c4a.jpg)](https://github.com/ansantechy)
-----|
+ρꪖꪻᥴꫝ|
 <div align="center">
 
    [`PATCH `](https://github.com/ansantechy/Ammu)
