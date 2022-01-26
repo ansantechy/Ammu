@@ -25,7 +25,7 @@
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/D-E-V-I-L-8/Ammu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ansantechy/Ammu)
 
 
 ## `CHANGE DYNO`
@@ -33,7 +33,7 @@
 `MUST TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START TO WORK YOUR BOT PROPERLY`
 
 <p align="center">
-  <a href="https://github.com/D-E-V-I-L-8/Ammu"><img src="https://telegra.ph/file/67b8d38887cfcb6508226.jpg" />
+  <a href="https://github.com/ansantechy/Ammu"><img src="https://telegra.ph/file/67b8d38887cfcb6508226.jpg" />
 </p>
 ----------
 
