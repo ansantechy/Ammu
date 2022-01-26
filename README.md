@@ -2,7 +2,7 @@
 # *AMMU WHATSAPP-BOT*
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/45efc9300f910bc8a870a.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/426fa85b32ce65fdee463.jpg" width="200" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/_.p.a.t.c.h_?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
