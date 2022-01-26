@@ -31,14 +31,14 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Ammu-Sticker'
+global.packname = 'Patch-'
 global.author = 'Ammu'
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
 global.fla = 'https://ibb.co/jW31z7n'
 
-global.watermark = '© Ammu'
+global.watermark = '© ρꪖꪻᥴꫝ'
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
