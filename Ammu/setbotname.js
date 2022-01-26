@@ -1,6 +1,6 @@
 // NurNurz
 let handler = async (m, { conn, text }) => {
-  if (!text) throw `uhm.. where's the text?`
+  if (!text) throw `uhm.. where's the text😲?`
   try {
     await conn.updateProfileName(text)
     m.reply('Succeed!')
